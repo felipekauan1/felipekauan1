@@ -38,7 +38,9 @@
   </div>
 </div>
 
+<br>
+
 <div>
   <h1>Contato</h1>
-  <p>✉️ felipekauan7f@gmail.com</p>
+  <p>felipekauan7f@gmail.com</p>
 </div>
