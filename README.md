@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔥 Desenvolvedor fullstack.
+- 🔥 Desenvolvedor Frontend.
 - ⏳ Cursando Análise e Desenvolvimento de Sistemas na Uninter.
 - 🤖 Desenvolvendo habilidades.
 - 🧑‍💻 Estudando para ser um Programador Atemporal.
@@ -10,7 +10,6 @@
 <br>
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=felipekauan1&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipekauan1&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
