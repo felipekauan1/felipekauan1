@@ -1,28 +1,20 @@
-<h1 align="left">Olá 👋, Eu sou o Felipe Kauãn</h1>
+# Olá 👋, Eu sou o Felipe Kauãn
 
-<br>
-
-- 🔥 Desenvolvedor Frontend.
-- ⏳ Cursando Análise e Desenvolvimento de Sistemas na Uninter.
-- 🤖 Desenvolvendo habilidades.
-- 🧑‍💻 Estudando para ser um Programador Atemporal.
-  
-<br>
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipekauan1&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+- Desenvolvedor Frontend.
+- Cursando Análise e Desenvolvimento de Sistemas na Uninter.
+- Desenvolvendo habilidades.
+- Estudando para ser um grande Programador.
 
 <br>
 
 <div> 
   <div style="display: inline_block">
-    <h1>Linguagens e ferramentas:</h1>
-    <h2>Que tenho conhecimento:</h2>
+    <h2>Linguagens e ferramentas:</h2>
+    <h3>Que tenho conhecimento:</h3>
     <br>
     <img height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <h2>Que estou estudando:</h2>
+    <h3>Que estou estudando:</h3>
     <br>
     <img height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
     <img height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
@@ -38,7 +30,8 @@
 
 <br>
 
-<div>
-  <h1>Contato</h1>
-  <p>felipekauan7f@gmail.com</p>
-</div>
+## Contato
+
+- Portfólio: https://felipekauan.vercel.app/
+- Currículo: [Currículo.pdf](https://github.com/felipekauan1/felipekauan1/files/15138142/Curriculo.pdf)
+- E-mail: felipekauan7f@gmail.com
