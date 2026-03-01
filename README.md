@@ -22,11 +22,15 @@
 
 <h3 align="left">👨‍💻 Sobre mim</h3>
 
-<p align="left"> Sou <strong>Desenvolvedor Back-end</strong>, com foco em <strong>PHP e MySQL</strong>.<br><br>
+<p align="left"> Sou <strong>Desenvolvedor Back-end</strong>, com foco em <strong>PHP e Laravel</strong>.<br><br>
 
-🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNINTER</strong>, sigo em constante evolução como <strong>aluno da B7Web</strong>, aplicando meus conhecimentos em projetos pessoais, acadêmicos e trabalhos como <strong>freelancer</strong>.<br><br>
+🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNINTER</strong>.<br><br>
 
-🧩 Atuo no desenvolvimento de <strong>sistemas CRUD</strong>, integração com banco de dados, organização de código e versionamento utilizando boas práticas de desenvolvimento.
+🚀 Atuo em projetos pessoais e como <strong>Freelancer</strong>, aplicando arquitetura <strong>MVC</strong>, <strong>Programação Orientada a Objetos (POO)</strong> e boas práticas de desenvolvimento.<br><br>
+
+🔐 Experiência com integração segura ao banco de dados utilizando <strong>MySQL</strong>, <strong>PDO</strong> e <strong>Prepared Statements</strong>.<br><br>
+
+🔄 Versionamento e organização de código com <strong>Git</strong>, <strong>GitHub</strong> e <strong>Composer (PSR-4)</strong>.<br><br>
 
 </p>
 
@@ -37,13 +41,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" />
 </div>
