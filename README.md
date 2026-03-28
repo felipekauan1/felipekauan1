@@ -26,7 +26,7 @@
 
 🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNINTER</strong>.<br><br>
 
-🚀 Atuo em projetos pessoais e como <strong>Freelancer</strong>, aplicando arquitetura <strong>MVC</strong>, <strong>Programação Orientada a Objetos (POO)</strong> e boas práticas de desenvolvimento.<br><br>
+🚀 Atuo em projetos pessoais e como <strong>Freelancer</strong>, aplicando arquitetura <strong>MVC</strong>, <strong>Programação Orientada a Objetos (POO)</strong>, desenvolvimento de APIs REST e boas práticas de desenvolvimento.<br><br>
 
 🔐 Experiência com integração segura ao banco de dados utilizando <strong>MySQL</strong>, <strong>PDO</strong> e <strong>Prepared Statements</strong>.<br><br>
 
